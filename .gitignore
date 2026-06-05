@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+
+predictions.db
+predictions.csv
+
+dataset/
+notebooks/
